@@ -2,7 +2,8 @@
 
 
 #Description:
-Simple app converting an age into cat years.
+Simple single page app converting an age into cat years(x7).
 
 #Things I have learnt in the process:
-- Changin keyboard type to restrict user inputs.
+- Changing keyboard type to restrict user inputs.
+
